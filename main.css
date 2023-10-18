@@ -1,0 +1,73 @@
+
+body {
+    background-image: url(https://images.pexels.com/photos/7134999/pexels-photo-7134999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.asoui {
+    display: flex;
+    justify-content: center;
+
+}
+.web-ul {
+    font-size: 25px;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    overflow-y: auto;
+    flex: 2;
+
+}
+
+aside {
+    overflow-y: auto;
+    flex: 1;
+
+    
+}
+article li {
+    padding-bottom: 15px;
+}
+article h4,h5,h6 {
+    font-weight: normal;
+}
+
+.interests {
+    font-size: 19px;
+    padding-bottom: 10px;
+}
+
+.footer-button {
+    display: inline-block;
+    height: 50px;
+    color: #0e4bf0;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 44px;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 9px;
+    text-transform: uppercase;
+    border: 2px solid #0e4bf0;
+    border-radius: 50px;
+    margin-bottom: 25px;
+
+}
+
+
+
+
+
+.small {
+    width: 30%; 
+}
+
+
