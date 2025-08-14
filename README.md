@@ -23,16 +23,18 @@ This portfolio serves as both a personal brand platform and a centralized place 
 
 ## 📂 Project Structure
 ├── index.html # Main landing page
-├── /css/ # Stylesheets
-├── /js/ # JavaScript files
-└── /images/ # Images and assets
 
+├── /css/ # Stylesheets
+
+├── /js/ # JavaScript files
+
+└── /images/ # Images and assets
 
 ---
 
 ## 🚀 Getting Started
 1. **Clone the repository**
-2. git clone https://github.com/username/portfolio.git
+2. git clone https://github.com/Mekhty111/Own-Website-project-HTML-CSS-JS-
 
 2. **Open `index.html` in your browser**
 - No additional setup required — runs locally with any modern browser
@@ -41,7 +43,7 @@ This portfolio serves as both a personal brand platform and a centralized place 
 
 ## 📌 Author
 **Your Name**  
-[🔗 LinkedIn](https://linkedin.com/in/username) | [💻 GitHub](https://github.com/username)
+[🔗 LinkedIn](https://www.linkedin.com/in/mekhty-mekhtyev/) | [💻 GitHub]()
 
 ---
 
