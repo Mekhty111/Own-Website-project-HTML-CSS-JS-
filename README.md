@@ -20,16 +20,13 @@ This portfolio serves as both a personal brand platform and a centralized place 
 - **JavaScript (ES6)** — interactive and dynamic features
 
 ---
-
 ## 📂 Project Structure
+```
 ├── index.html # Main landing page
-
 ├── /css/ # Stylesheets
-
 ├── /js/ # JavaScript files
-
 └── /images/ # Images and assets
-
+```
 ---
 
 ## 🚀 Getting Started
@@ -42,7 +39,7 @@ This portfolio serves as both a personal brand platform and a centralized place 
 ---
 
 ## 📌 Author
-**Your Name**  
+**Mekhty Mekhtyev**  
 [🔗 LinkedIn](https://www.linkedin.com/in/mekhty-mekhtyev/) | [💻 GitHub]()
 
 ---
